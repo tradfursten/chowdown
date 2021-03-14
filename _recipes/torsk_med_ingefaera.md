@@ -25,5 +25,5 @@ directions:
 
 ---
 
-https://mittkok.expressen.se/recept/torsk-med-ingefara-i-kokosmjolk/
+[https://mittkok.expressen.se/recept/torsk-med-ingefara-i-kokosmjolk/](https://mittkok.expressen.se/recept/torsk-med-ingefara-i-kokosmjolk/)
 

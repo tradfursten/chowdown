@@ -31,4 +31,4 @@ directions:
 
 ---
 
-https://www.ica.se/recept/palak-paneer-med-tomat-och-halloumi-722056/
+[https://www.ica.se/recept/palak-paneer-med-tomat-och-halloumi-722056/](https://www.ica.se/recept/palak-paneer-med-tomat-och-halloumi-722056/)
