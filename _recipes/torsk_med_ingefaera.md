@@ -18,9 +18,9 @@ ingredients:
 - Ris
 
 directions:
--Sätt ugnen på 225 grader. Lägg torsken i en ugnssäker form och salta. Strö över grönsaker och lök.
--Blanda kokosmjölken med ingefära, limeskal (endast det gröna), limesaft och riv ner buljongtärningen. Häll såsen över fisken. Peppra och tillaga mitt i ugnen i cirka 20 minuter.
--Servera torsken med ris.
+- Sätt ugnen på 225 grader. Lägg torsken i en ugnssäker form och salta. Strö över grönsaker och lök.
+- Blanda kokosmjölken med ingefära, limeskal (endast det gröna), limesaft och riv ner buljongtärningen. Häll såsen över fisken. Peppra och tillaga mitt i ugnen i cirka 20 minuter.
+- Servera torsken med ris.
 
 
 ---
