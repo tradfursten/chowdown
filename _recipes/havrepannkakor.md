@@ -20,6 +20,6 @@ directions:
 
 ---
 
-Låt gärna smeten stp och svälla några timmar. Till exempel över dagen medan du är på jobbet. Det underlättar stekning.
+Låt gärna smeten stå och svälla några timmar. Till exempel över dagen medan du är på jobbet. Det underlättar stekning.
 
 
