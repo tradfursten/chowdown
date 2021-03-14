@@ -2,7 +2,7 @@
 title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "" #https://tradfursten.github.io/lekparksmaffiansrecept"
+baseurl: "https://tradfursten.github.io/lekparksmaffiansrecept"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
