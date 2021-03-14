@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Krämig zucchini- och svamppasta"
+title:  "Krämig italiensk kycklinggratäng"
 tags: vegitarisk
 
 ingredients:
