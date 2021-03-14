@@ -1,4 +1,6 @@
-# Chowdown
+# Lekparksmaffians receptsamling
+
+Based on Chowdown
 
 A simple, plaintext recipe database for hackers
 

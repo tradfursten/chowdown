@@ -16,6 +16,9 @@ ingredients:
 - 3 dl kycklingbuljong
 - 1,5 dl vispgrädde
 - 1 dl parmesanost, fint riven
+- 8 körsbärstomater, till servering
+- 0,5 kruka basilika, till servering
+- 4 port pasta, kokt, till servering
 
 directions:
 - Värm ugnen till 180 grader, varmluft.
