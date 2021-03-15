@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Gorgonzolakyckling"
 tags: kyckling
+image: gorgonzolakyckling.jpg
 
 ingredients:
 - 4 st kycklingfiléer
