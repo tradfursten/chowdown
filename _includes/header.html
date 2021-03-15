@@ -1,4 +1,10 @@
-<a class="site-title fixed bg-blue p1 no-line-height top-0 left-0 z4" href="{{ site.baseurl }}/">
-    {% include chowdown-logo-white.svg %}
-  <h1 class="hide">{{ site.title }}</h1>
-</a>
+<div class="site-title fixed bg-blue no-line-height top-0 left-0 z4 flex flex-column">
+  <a class="m1" href="{{ site.baseurl }}/">
+      {% include chowdown-logo-white.svg %}
+    <h1 class="hide">{{ site.title }}</h1>
+  </a>
+  <a class="m1" href="{{ site.baseurl }}/search">
+      {% include search.svg %}
+    <h1 class="hide">Sök</h1>
+  </a>
+</div>
