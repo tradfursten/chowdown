@@ -24,9 +24,5 @@ directions:
 
 ---
 
-
-
-
-
-
+[https://www.jennysmatblogg.nu/2019/07/24/kycklinggratang-i-ugn-med-extra-allt/](https://www.jennysmatblogg.nu/2019/07/24/kycklinggratang-i-ugn-med-extra-allt/)
 
