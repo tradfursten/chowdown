@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Plättar med kikärtor"
 tags: vegitarisk
+image: kikaertsplaettar.jpeg
 
 ingredients:
 - 3 dl kikärter (kokta)
